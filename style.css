@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 160px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    width: 10px;
+    height: 10px;
+}
+
+.paint {
+    background-color: blue;
+}
